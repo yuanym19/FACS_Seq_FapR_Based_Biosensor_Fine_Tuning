@@ -9,4 +9,4 @@ Sorting_Analysis_boundary.ipynb is used to analyze the sorting boundary. For thi
 
 FACS_seq Data Process.ipynb is used to analyze the FACS_seq NGS data. Characterized_results_0708.xlsx and the files in the folder 'Bin_info' are used in this script. The output results are saved in the folder 'ExportResults'.
 
-Machine Learning from FACS_seq_Data.ipynb is used for machine learning in this work. related files are in the folder 'Machine_learning' and 'ExportResults'.
+Machine Learning from FACS_seq_Data.ipynb is used for machine learning in this work. The related files are in the folder 'Machine_learning' and 'ExportResults'.
